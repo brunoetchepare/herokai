@@ -14,6 +14,8 @@ app.get('/', function (req, res) {
     pic: process.env.TWITTER_PIC,
     email: process.env.EMAIL,
     twitter: process.env.TWITTER_HANDLE,
+    linkedin: process.env.LINKEDIN_USER,
+
     location: process.env.LOCATION,
   })
 })

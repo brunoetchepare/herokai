@@ -13,10 +13,10 @@ app.get('/', function (req, res) {
     bio: process.env.TWITTER_BIO,
     pic: process.env.TWITTER_PIC,
     email: process.env.EMAIL,
+    github: process.env.GITHUB_USERNAME,
     twitter: process.env.TWITTER_HANDLE,
-    linkedin: process.env.LINKEDIN_USER,
-
     location: process.env.LOCATION,
+    languages: process.env.LANGUAGES
   })
 })
 

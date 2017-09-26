@@ -22,10 +22,7 @@
       "description": "A link to your Twitter profile pic.",
       "required": true
     },
-    "GITHUB_USERNAME": {
-      "description": "Your GitHub username. Again no need to include the @",
-      "required": true
-    },
+   
     "EMAIL": {
       "description": "Your Email address.",
       "required": true
@@ -35,10 +32,7 @@
       "value": "San Francisco, CA",
       "required": true
     },
-    "LANGUAGES": {
-      "description": "What are your favorite languages?",
-      "value": "JavaScript, obviously."
-    }
+    
   },
   "website": "https://github.com/brunoetchepare/herokai",
   "repository": "https://github.com/brunoetchepare/herokai"

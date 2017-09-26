@@ -27,6 +27,11 @@
       "description": "Your Email address.",
       "required": true
     },
+
+"LINKEDIN_USER": {
+      "description": "Your linkedin profile URL",
+      "required": true
+    },
     "LOCATION": {
       "description": "Where are you from?",
       "value": "San Francisco, CA",

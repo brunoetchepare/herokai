@@ -22,13 +22,11 @@
       "description": "A link to your Twitter profile pic.",
       "required": true
     },
-   
     "EMAIL": {
       "description": "Your Email address.",
       "required": true
     },
-
-"LINKEDIN_USER": {
+    "LINKEDIN_USER": {
       "description": "Your linkedin profile URL",
       "required": true
     },
